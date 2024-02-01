@@ -1,3 +1,7 @@
+# ignore api key files
+api_keys_openweather.py
+api_keys_geoapify.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
